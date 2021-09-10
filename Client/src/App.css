@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+}
+.appnav {
+  list-style-type: none;
+  font-size: 30px;
+  line-height: 12.1vh;
+  font-family: verdana;
+}
+.navbarlink {
+  color: white;
+}
+.navbarlink:hover {
+  text-decoration: none;
+  color: darkgoldenrod;
+}
+
+.hometop {
+  font-size: 30px;
+  font-family: verdana;
+}
+
+.studentnav {
+  list-style-type: none;
+}
